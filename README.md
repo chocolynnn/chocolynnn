@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @chocolynnn
 - 👀 I’m interested in creative thinking that consist of AI
-- 🌱 I’m currently learning java (done with Html CSS and JavaScript)
+- 🌱 I’m currently learning java (done with basic Html CSS and JavaScript)
 - 💞️ I’m looking to collaborate on problem solving ideas because AI is the future 
 - 📫 How to reach me 
 By Phone +2348064423727 and by mail ablamars@gmail.com
